@@ -1,0 +1,22 @@
+# Credenciales. Nunca subir.
+.env
+.env.*
+*.key
+*.pem
+
+# Configuración local de MCP con rutas o tokens propios
+.mcp.json
+.claude/
+CLAUDE.local.md
+
+# Dependencias y artefactos
+node_modules/
+__pycache__/
+*.log
+salidas/
+tmp/
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini

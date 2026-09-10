@@ -1,0 +1,19 @@
+# Normaliza el fin de línea a LF en todo el repositorio.
+# Sin esto, un script clonado en Windows llega con CRLF y falla con
+# "bad interpreter: /bin/bash^M". Es el error multiplataforma número uno.
+* text=auto eol=lf
+
+*.sh    text eol=lf
+*.md    text eol=lf
+*.csv   text eol=lf
+*.json  text eol=lf
+
+*.png   binary
+*.jpg   binary
+*.pdf   binary
+*.xlsx  binary
+*.docx  binary
+
+# El dataset de la FDA conserva su CRLF original a propósito: es el
+# ejemplo real del paso 2 sobre datos que vienen de Windows.
+datos/fda/*.txt -text
