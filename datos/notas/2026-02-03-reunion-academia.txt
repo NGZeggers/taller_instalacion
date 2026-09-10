@@ -1,0 +1,16 @@
+Reunión de academia — 3 de febrero de 2026
+
+Asistentes: Campos, Medina, Peña.
+
+Seguimiento:
+- Aula confirmada, edificio C, salón 204. Red probada, sin incidencias.
+- Guía de instalación para Windows entregada y publicada en el repositorio.
+- El laboratorio NO permite habilitar virtualización. Se documenta ruta alterna con Git Bash.
+
+Acuerdos:
+- Se agrega un módulo de verificación previa obligatoria.
+- Los equipos de trabajo se forman por carrera, no al azar.
+
+Pendientes:
+- Preparar datos de práctica sintéticos. Responsable: Peña. Fecha: 14 de febrero.
+- Definir la rúbrica del proyecto final. Responsable: Campos. Fecha: 20 de febrero.

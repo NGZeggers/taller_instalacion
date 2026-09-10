@@ -1,0 +1,13 @@
+Reunión de academia — 15 de enero de 2026
+
+Asistentes: Campos, Medina, Ríos, Peña.
+
+Acuerdos:
+- Se aprueba el taller de terminal para el periodo de primavera.
+- Cupo máximo 24 personas por grupo. Se abren dos grupos si hay demanda.
+- Requisito: cuenta de pago del asistente antes de la primera sesión.
+
+Pendientes:
+- Confirmar aula con proyector y buena red. Responsable: Medina. Fecha: 22 de enero.
+- Redactar guía de instalación para Windows. Responsable: Campos. Fecha: 30 de enero.
+- Revisar si el laboratorio permite habilitar virtualización. Responsable: Ríos. Fecha: 25 de enero.

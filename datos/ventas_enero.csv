@@ -1,0 +1,20 @@
+fecha,sucursal,producto,cantidad,precio_unitario,vendedor
+2026-01-03,Guadalajara Centro,Café de altura 1kg,12,285.00,María Núñez
+2026-01-03,Zapopan,Té verde 250g,8,120.50,José Aguiñaga
+2026-01-05,Guadalajara Centro,Café de altura 1kg,5,285.00,María Núñez
+2026-01-07,Tlaquepaque,Chocolate de mesa,20,95.00,Ximena Ríos
+2026-01-08,Zapopan,Café descafeinado 500g,7,210.00,José Aguiñaga
+2026-01-11,Guadalajara Centro,Té verde 250g,15,120.50,Andrés Peña
+2026-01-12,Tonalá,Chocolate de mesa,3,95.00,Ximena Ríos
+2026-01-14,Zapopan,Café de altura 1kg,9,285.00,José Aguiñaga
+2026-01-15,Guadalajara Centro,Café descafeinado 500g,11,210.00,María Núñez
+2026-01-18,Tlaquepaque,Té verde 250g,6,120.50,Andrés Peña
+2026-01-19,Tonalá,Café de altura 1kg,14,285.00,Ximena Ríos
+2026-01-21,Zapopan,Chocolate de mesa,25,95.00,José Aguiñaga
+2026-01-22,Guadalajara Centro,Café de altura 1kg,8,285.00,Andrés Peña
+2026-01-25,Tlaquepaque,Café descafeinado 500g,4,210.00,María Núñez
+2026-01-27,Tonalá,Té verde 250g,18,120.50,Ximena Ríos
+2026-01-28,Zapopan,Café de altura 1kg,10,285.00,José Aguiñaga
+2026-01-29,Guadalajara Centro,Chocolate de mesa,13,95.00,Andrés Peña
+2026-01-30,Tlaquepaque,Café de altura 1kg,7,285.00,María Núñez
+2026-01-31,Zapopan,Té verde 250g,6,120.50,María Núñez

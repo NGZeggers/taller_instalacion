@@ -1,0 +1,13 @@
+matricula,nombre,carrera,semestre,correo,estatus
+A01734,Valeria Ochoa Zermeño,Derecho,6,valeria.ochoa@ejemplo.edu.mx,activo
+A01735,Diego Ibarra Solís,Ingeniería en Computación,4,diego.ibarra@ejemplo.edu.mx,activo
+A01736,Fernanda Quiñones Lara,Medicina,8,fernanda.quinones@ejemplo.edu.mx,baja temporal
+A01737,Rodrigo Ávila Méndez,Administración,6,rodrigo.avila@ejemplo.edu.mx,activo
+A01738,Paulina Cázares Ruvalcaba,Psicología,5,paulina.cazares@ejemplo.edu.mx,activo
+A01739,Emiliano Nájera Frías,Diseño para la Comunicación,7,emiliano.najera@ejemplo.edu.mx,activo
+A01740,Regina Muñoz Barajas,Derecho,4,regina.munoz@ejemplo.edu.mx,activo
+A01741,Sebastián Íñiguez Pardo,Ingeniería en Computación,6,sebastian.iniguez@ejemplo.edu.mx,baja definitiva
+A01742,Camila Preciado Gómez,Contaduría,5,camila.preciado@ejemplo.edu.mx,activo
+A01743,Mauricio Zúñiga Andrade,Medicina,9,mauricio.zuniga@ejemplo.edu.mx,activo
+A01744,Renata Villaseñor Cruz,Psicología,4,renata.villasenor@ejemplo.edu.mx,activo
+A01745,Alejandro Fuentes Órnelas,Administración,8,alejandro.fuentes@ejemplo.edu.mx,activo
