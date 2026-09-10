@@ -1,0 +1,26 @@
+{
+  "_comentario": "Copia este archivo a la raíz del repositorio como .mcp.json y ajústalo. La misma sintaxis funciona en Windows (WSL) y en Linux. Borra las claves que empiezan con guion bajo: son notas, no configuración.",
+
+  "mcpServers": {
+    "archivos": {
+      "_para_que": "Da acceso de lectura y escritura SOLO a la carpeta de datos del módulo 2.",
+      "_riesgo": "Si cambias la ruta final por '.' o por '/', el asistente alcanza todo el repositorio o todo tu disco. Ese argumento es el límite de permisos.",
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-filesystem",
+        "./datos"
+      ]
+    },
+
+    "_ejemplo_remoto": {
+      "_para_que": "Plantilla de servidor remoto. Renombra la clave quitando el guion bajo para activarlo.",
+      "_riesgo": "El token viaja en la configuración. Nunca lo escribas aquí en texto plano: usa una variable de entorno.",
+      "type": "http",
+      "url": "https://ejemplo.com/mcp",
+      "headers": {
+        "Authorization": "Bearer ${MI_TOKEN}"
+      }
+    }
+  }
+}

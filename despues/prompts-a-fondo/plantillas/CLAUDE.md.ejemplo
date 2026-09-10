@@ -1,0 +1,40 @@
+# Ejemplo de archivo de instrucciones persistentes
+
+Un archivo llamado `CLAUDE.md` en la raíz de un proyecto se carga
+automáticamente en cada conversación que abras ahí. Sirve para lo que
+repetirías siempre: convenciones, rutas, prohibiciones.
+
+Copia este ejemplo como `CLAUDE.md` en la raíz de tu proyecto y ajústalo.
+Nota que `CLAUDE.local.md` está en el `.gitignore` de este repositorio, por
+si necesitas notas personales que no quieres compartir.
+
+---
+
+## Contexto del proyecto
+
+Análisis de ventas mensuales para la cadena de cafeterías. Los datos crudos
+llegan de tres sucursales con formatos distintos.
+
+## Convenciones
+
+- Los archivos originales en `datos/` son de solo lectura. Nunca los edites.
+- Todo resultado va a `salidas/`, que está en el `.gitignore`.
+- Fechas siempre en formato AAAA-MM-DD.
+- Montos sin símbolo de moneda, con punto decimal, dos decimales.
+- Nombres propios con capitalización de título, respetando acentos.
+- Codificación UTF-8, fin de línea LF.
+
+## Cómo trabajar aquí
+
+- Antes de cambiar más de tres archivos, propón el plan y espera confirmación.
+- Después de generar un CSV, reporta filas de entrada, filas de salida y
+  filas descartadas con su motivo.
+- Si un dato falta, márcalo como `REVISAR`. No lo inventes ni lo imputes.
+- Si una instrucción mía se contradice con este archivo, dímelo en lugar de
+  elegir por tu cuenta.
+
+## Prohibido
+
+- Modificar archivos fuera de `salidas/`.
+- Escribir credenciales en cualquier archivo del repositorio.
+- Instalar dependencias sin avisar antes.
